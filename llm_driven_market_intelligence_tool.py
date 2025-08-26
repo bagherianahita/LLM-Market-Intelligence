@@ -31,6 +31,9 @@ from openai import OpenAI
 from src.scrape import scrape_url
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+
+
 pinecone.init(api_key=os.getenv("PINECONE_API_KEY"), environment=os.getenv("PINECONE_ENV"))
 
 index = pinecone.Index(os.getenv("PINECONE_INDEX"))
