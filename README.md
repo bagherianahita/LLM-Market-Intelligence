@@ -20,15 +20,17 @@ Built with **OpenAI GPT-4, LangChain, Pinecone, and Streamlit**.
 │── requirements.txt # Python dependencies
 │── config.yaml # Config (API keys, Pinecone index, etc.)
 
-LangChain: A framework designed to help developers build applications using Large Language Models. It provides tools to connect LLMs to other data sources and services.
-Pinecone: A specialized database designed for storing and searching vector embeddings. It is optimized for finding similar data points very quickly.
-Streamlit: An open-source framework for building interactive web applications for data science and machine learning.
+LangChain: A framework designed to help developers build applications using Large Language Models.
+It provides tools to connect LLMs to other data sources and services.
 
-Perfect project to put on GitHub 👏 Let’s build a **clean repository structure** for your *LLM-Driven Market Intelligence Tool*. I’ll give you:
+Pinecone: A specialized database designed for storing and searching vector embeddings. 
+It is optimized for finding similar data points very quickly.
 
+Streamlit: An open-source framework for building interactive web applications
+for data science and machine learning.
+
+ 
 Repository Structure
-
-```
 llm-market-intel/
 │── README.md
 │── .gitignore
