@@ -1,7 +1,11 @@
 # LLM-Driven Market Intelligence Tool
 
-A market insights generator for a fintech startup that analyzes competitor **press releases, news, and filings** in near real-time.  
-Built with **OpenAI GPT-4, LangChain, Pinecone, and Streamlit**.
+A market insights generator for a fintech startup that analyzes:
+competitor press releases, 
+news, and 
+filings
+in near real-time.  
+Built with  OpenAI GPT-4, LangChain, Pinecone, and Streamlit 
 
 ---
 
