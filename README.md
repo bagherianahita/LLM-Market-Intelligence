@@ -7,7 +7,7 @@ filings
 in near real-time.  
 Built with  OpenAI GPT-4, LangChain, Pinecone, and Streamlit 
 
----
+
 
 ##  Features
 - Automated scraping of competitor press releases and news.
