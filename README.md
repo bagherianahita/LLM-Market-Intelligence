@@ -47,6 +47,10 @@ streamlit run app.py
 
 Default question is pre-filled. Click **Analyze** — works offline with demo corpus.
 
+| | URL |
+|---|-----|
+| **Web UI** | http://localhost:8501 |
+
 CLI:
 
 ```bash
