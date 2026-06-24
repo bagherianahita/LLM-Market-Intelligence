@@ -1,0 +1,4 @@
+openai_api_key: ""
+pinecone_api_key: ""
+pinecone_index: "market-intel"
+openai_model: "gpt-4o-mini"
