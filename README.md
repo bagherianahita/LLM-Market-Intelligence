@@ -38,17 +38,14 @@ LLM-Market-Intelligence/
 
 ---
 
-## Quick start
+## Quick start (employers — no API keys)
 
 ```bash
-python -m venv .venv
-.venv\Scripts\activate          # Windows
 pip install -r requirements.txt
-cp config.yaml.example config.yaml   # add API keys via env vars
-set OPENAI_API_KEY=sk-...
-set PINECONE_API_KEY=...
 streamlit run app.py
 ```
+
+Default question is pre-filled. Click **Analyze** — works offline with demo corpus.
 
 CLI:
 

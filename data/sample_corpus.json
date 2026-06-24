@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "text": "Competitor FinPay launched instant cross-border settlements in Q1 2026, targeting mid-market exporters.",
+    "tags": ["payments", "launch", "cross-border"]
+  },
+  {
+    "id": "2",
+    "text": "Rival BankCo announced AI fraud detection for SMB accounts in March 2026 with 40% false-positive reduction.",
+    "tags": ["fraud", "AI", "SMB"]
+  },
+  {
+    "id": "3",
+    "text": "PaySphere expanded Canadian payroll integrations and undercut incumbents on per-seat pricing.",
+    "tags": ["payroll", "expansion", "pricing"]
+  }
+]
