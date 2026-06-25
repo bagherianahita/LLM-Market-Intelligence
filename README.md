@@ -1,4 +1,4 @@
-# LLM-Driven Market Intelligence
+﻿# LLM-Driven Market Intelligence
 
 **Real-time competitor and market insights** using RAG over press releases and news — built with OpenAI, Pinecone, and Streamlit.
 <img width="1562" height="641" alt="image" src="https://github.com/user-attachments/assets/f08cc972-d6e7-4c81-96f9-0592b44d1e10" />
@@ -40,7 +40,7 @@ LLM-Market-Intelligence/
 
 ---
 
-## Quick start (employers — no API keys)
+## Quick start
 
 ```bash
 pip install -r requirements.txt
