@@ -42,14 +42,14 @@ LLM-Market-Intelligence/
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py --server.port 8506
 ```
 
 Default question is pre-filled. Click **Analyze** — works offline with demo corpus.
 
 | | URL |
 |---|-----|
-| **Web UI** | http://localhost:8501 |
+| **Web UI** | http://localhost:8506 |
 
 CLI:
 
