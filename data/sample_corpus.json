@@ -13,5 +13,20 @@
     "id": "3",
     "text": "PaySphere expanded Canadian payroll integrations and undercut incumbents on per-seat pricing.",
     "tags": ["payroll", "expansion", "pricing"]
+  },
+  {
+    "id": "4",
+    "text": "NeoLedger raised Series C funding to build real-time AML monitoring for fintech APIs.",
+    "tags": ["fraud", "funding", "AML"]
+  },
+  {
+    "id": "5",
+    "text": "SwiftBridge partnered with three Canadian banks for same-day B2B payment rails in Q1 2026.",
+    "tags": ["payments", "partnership", "B2B"]
+  },
+  {
+    "id": "6",
+    "text": "ClearAudit published a benchmark showing AI chargeback tools cut dispute resolution time by 55%.",
+    "tags": ["fraud", "AI", "benchmark"]
   }
 ]

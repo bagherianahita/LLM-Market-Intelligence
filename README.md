@@ -44,10 +44,23 @@ LLM-Market-Intelligence/
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py --server.port 8506
+streamlit run app.py
 ```
 
-Default question is pre-filled. Click **Analyze** — works offline with demo corpus.
+Default question is pre-filled. Click **Analyze** — works offline with local corpus search.
+
+### Optional: free open-source LLM (Ollama)
+
+For **dynamic AI-generated** answers instead of template synthesis:
+
+1. Install [Ollama](https://ollama.com) (free, runs models locally)
+2. Pull a model: `ollama pull llama3.2`
+3. Ensure Ollama is running (`ollama serve` or start the Ollama app)
+4. Restart Streamlit — the sidebar will show **Ollama** as the active backend
+
+Optional env vars: `OLLAMA_MODEL` (default `llama3.2`), `OLLAMA_BASE_URL` (default `http://localhost:11434`).
+
+For production RAG with Pinecone + OpenAI, set `OPENAI_API_KEY` and `PINECONE_API_KEY`.
 
 | | URL |
 |---|-----|
