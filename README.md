@@ -1,6 +1,7 @@
 # LLM-Driven Market Intelligence
 
 **Real-time competitor and market insights** using RAG over press releases and news — built with OpenAI, Pinecone, and Streamlit.
+<img width="1562" height="641" alt="image" src="https://github.com/user-attachments/assets/f08cc972-d6e7-4c81-96f9-0592b44d1e10" />
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.37-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
